@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Home accounting</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_transport">Транспорт</string>
+    <string name="action_grocery">Продукты</string>
+    <string name="action_transport_marshrutka">Маршрутка 7р</string>
+    <string name="action_transport_marshrutka_cheap">Маршрутка 6р</string>
+    <string name="action_transport_deat">Автобус</string>
+    <string name="shop_name">Название магазина:</string>
+    <string name="another">Другой</string>
+    <string name="shop_sum">Сумма</string>
+    <string name="shop_pay">Провести</string>
+    <string name="person_number">Количество человек</string>
+    <string-array name="shoplist">
+        <item>Амстор</item>
+        <item>Первый республиканский</item>
+        <item>Галактика</item>
+        <item>Другой магазин</item>
+    </string-array>
+    <string-array name="currencylist">
+        <item>руб</item>
+        <item>грн</item>
+    </string-array>
+    <string-array name="personNumberList">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
